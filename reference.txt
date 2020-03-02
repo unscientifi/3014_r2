@@ -10,8 +10,9 @@ https://www.sitepoint.com/sending-emails-php-phpmailer/\
 https://www.w3schools.com/php/func_mail_mail.asp\
 https://www.youtube.com/watch?v=F0VReccd_44 (Email confirmation)\
 https://www.w3schools.com/php/php_ref_string.asp\
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-\cf0 https://www.php.net/manual/en/function.password-hash\
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-\cf0 https://www.php.net/manual/en/function.password-verify.php\
-}
+https://www.php.net/manual/en/function.password-hash\
+https://www.php.net/manual/en/function.password-verify.php\
+\
+\
+Username: RRR\
+Password: 111}
