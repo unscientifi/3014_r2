@@ -63,7 +63,7 @@ function createUser($fname, $username, $password, $email){
             $mail->Body    = '<h1>Welcome! <b>NEW USER!</b> </h1>
                                 <h2></h2>' . $username .
                                 '<h2>Your password is: </h2>' . $randompw .
-                                '<h3>URL: http://localhost:8888/movies_cms/admin/admin_login.php</h3>';
+                                '<h3>URL: http://localhost:8888/3014_r2/admin/admin_login.php</h3>';
         
      $mail->send();
 
